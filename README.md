@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 While Rwanda has achieved an impressive **96% headline financial inclusion** and **88.5% health insurance coverage** (primarily via Mutuelle de Santé), only **28.6% of adults** hold any non-health insurance or pension product (FinScope 2024, survey-weighted).
 
@@ -21,7 +21,7 @@ Because their primary friction is **awareness, distribution access, or product d
 
 ---
 
-## 🎯 The Two Gaps
+## The Two Gaps
 
 National uptake figures mask two fundamentally different dynamics:
 
@@ -45,7 +45,7 @@ National uptake figures mask two fundamentally different dynamics:
 
 ---
 
-## 🧠 Methodology & Machine Learning Architecture
+## Methodology & Machine Learning Architecture
 
 ```
 Raw FinScope Microdata (13,994 rows × 30 features)
@@ -91,7 +91,7 @@ Stratified Train/Test Split (70/30 on joint insurance × pension uptake)
 
 ---
 
-## 🖥️ Application Features & User Interaction
+## Application Features & User Interaction
 
 The Streamlit dashboard (`streamlit_app/app.py`) provides five interactive analytical modules:
 
@@ -119,13 +119,13 @@ The Streamlit dashboard (`streamlit_app/app.py`) provides five interactive analy
 - **Actionable Strategic Briefs:** Pre-computed intelligence briefs for the largest lookalike clusters.
 - **Clear Action Points:** Detailed analysis covering population scale, key behavioural barriers, distribution channel recommendations, and tailored product angles (e.g., bundling agricultural micro-insurance with cooperatives).
 
-### 🤖 Grounded AI Chatbot
-- An interactive assistant powered by Google Gemini (`langchain-google-genai`).
+### Grounded AI Chatbot
+- An interactive assistant powered by Google Gemini (`gemini-flash-3.8`).
 - Strictly grounded in FinScope 2024 national figures, archetype metrics, and segment calculations to eliminate hallucinations.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Adhering to the **NISR Big Data Hackathon Repository Guidelines**:
 
@@ -157,7 +157,7 @@ insurance_gap_radar/
 
 ---
 
-## 🚀 Setup & Local Execution
+## Setup & Local Execution
 
 ### 1. Clone the Repository
 ```bash
@@ -189,7 +189,7 @@ GEMINI_API_KEY = "your-google-gemini-api-key"
 
 ---
 
-## 👥 Team Information & Eligibility
+## Team Information & Eligibility
 
 - **Track:** Track 2 — Financial Inclusion & Poverty Reduction
 - **Team Members:** Christian & Vanessa
