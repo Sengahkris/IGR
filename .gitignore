@@ -29,3 +29,4 @@ shap_full_population_LOCAL_ONLY.csv.gz
 
 # ── Node (deck folder) ───────────────────────────────────────────────────────
 deck/node_modules/
+streamlit_app/.streamlit/secrets.toml
