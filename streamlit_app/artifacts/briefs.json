@@ -1,42 +1,42 @@
 [
   {
-    "title": "Pension \u2014 East rural farmers and fishers",
+    "title": "Pension: East rural farmers and fishers",
     "gap": "Pension",
     "adults_k": 635.0,
-    "priority": 1,
-    "insight": "Score as highly as existing holders on insurance understanding (76% vs 45%) \u2014 consistent with a distribution barrier rather than an awareness one. Understanding is partly a result of already owning a product, so this gap is read as a correlate, not proof.",
-    "recommendation": "Village Ejo Heza agents + mobile money sign-up, pitched as flexible low contributions. The largest single segment in this analysis \u2014 mostly Ubudehe 2, low-income rural households \u2014 so closing it directly advances NST2's resilience and poverty-reduction goals, not just inclusion statistics."
+    "body": "The single largest lookalike segment in this whole analysis - roughly 635,000 rural, low-income farming/fishing adults, mostly Ubudehe 2, who score as closely resembling existing RSSB/Ejo Heza holders. The surprise: they're not held back by awareness - about 76% already say they understand how insurance works, versus only ~45% of actual pension holders in this same archetype, and they use mobile money *more* often than holders do. The barrier looks less like \"doesn't know what a pension is\" and more like distribution reach or a trigger to actually sign up.",
+    "channel": "Village-level Ejo Heza savings agents and VUP touchpoints - this group already engages with mobile money, so mobile-linked sign-up (not a new physical branch) is the natural channel.",
+    "product_angle": "Ejo Heza matched-savings, pitched as a low, flexible contribution rather than a formal pension product - fits a farming/fishing income pattern better than a fixed monthly premium."
   },
   {
-    "title": "Pension \u2014 Kigali urban salaried",
+    "title": "Pension: Kigali urban salaried professionals",
     "gap": "Pension",
     "adults_k": 170.5,
-    "priority": 2,
-    "insight": "Nearly identical to existing holders on every measure \u2014 the clearest quick win in the data.",
-    "recommendation": "Employer payroll partnerships; RSSB voluntary top-up alongside salaried benefits. This segment is already affluent and formally employed \u2014 the case here is administrative ease and fast conversion, not poverty reduction."
+    "body": "Roughly 170,000 affluent, urban, salaried Kigali adults who look almost identical to people who already hold RSSB or private pensions - understanding, awareness and mobile money use are all within a few points of the holder population. This is the closest thing to a pure \"quick win\" in the data: they're not missing information, they likely just haven't been offered the product through the right channel yet.",
+    "channel": "Employer payroll partnerships and bank-linked sign-up - this group is already banked and salaried, so the friction is almost certainly distribution, not persuasion.",
+    "product_angle": "RSSB voluntary top-up or a private pension product marketed alongside existing salaried benefits, not a savings-literacy campaign."
   },
   {
-    "title": "Insurance \u2014 East rural farmers and fishers",
+    "title": "Insurance: East rural farmers and fishers",
     "gap": "Insurance",
     "adults_k": 144.9,
-    "priority": 3,
-    "insight": "Score higher on insurance understanding than existing holders (95% vs 63%); a quarter live over an hour from a branch \u2014 consistent with physical access, not information, being the constraint.",
-    "recommendation": "Bundle crop/livestock micro-insurance with existing cooperative schemes. Low-income, Ubudehe 2 households \u2014 a direct line to NST2's rural resilience target: a single bad harvest no longer means catastrophic loss."
+    "body": "About 145,000 rural, low-income farming/fishing adults who resemble insurance holders. Same pattern as the pension segment above: roughly 95% say they understand insurance, versus ~63% of actual holders in this archetype, and awareness of microinsurance and life insurance is also higher among the lookalikes. Roughly a quarter are more than 60 minutes from the nearest insurance branch - physical distribution gap, not an information gap.",
+    "channel": "Bundle with agricultural input/cooperative schemes they already use, rather than a standalone insurance sales push.",
+    "product_angle": "Crop/livestock micro-insurance - the one product type directly relevant to this livelihood, and currently under-distributed relative to how many people already understand the concept."
   },
   {
-    "title": "Pension \u2014 North rural farmers and fishers",
-    "gap": "Pension",
-    "adults_k": 107.1,
-    "priority": 3,
-    "insight": "Smaller gap between holders and lookalikes than other segments \u2014 genuinely on the fence rather than mismatched.",
-    "recommendation": "Same village-agent channel as the East rural segment; standard Ejo Heza tier. Ubudehe 3 households slightly better-off than the East segment, but still a poverty-resilience case, not just an inclusion number."
-  },
-  {
-    "title": "Insurance \u2014 Kigali urban salaried",
+    "title": "Insurance: Kigali urban salaried professionals",
     "gap": "Insurance",
     "adults_k": 94.0,
-    "priority": 3,
-    "insight": "Score higher on insurance understanding than existing holders (92% vs lower) \u2014 not an education gap.",
-    "recommendation": "Bundle life/credit-life insurance with an existing bank or SACCO loan. Affluent, formally employed \u2014 a commercial-market opportunity, not a poverty-reduction target."
+    "body": "About 94,000 affluent, urban Kigali professionals who look like insurance holders on paper. Again, awareness is not the gap - roughly 92% understand insurance and 91% are aware of life insurance specifically, both higher than the holder population. For this group the likely blocker is a concrete offer or price point, not education.",
+    "channel": "Direct digital/bank-linked distribution - this segment already uses mobile money and lives near an insurance branch, so access isn't the constraint either.",
+    "product_angle": "Life or credit-life insurance bundled with an existing bank/SACCO loan product, targeting the moment of a financial decision rather than a cold sell."
+  },
+  {
+    "title": "Pension: North rural farmers and fishers",
+    "gap": "Pension",
+    "adults_k": 107.1,
+    "body": "About 107,000 rural adults in Ubudehe 3 (slightly better off than the East rural segment above) who resemble pension holders. Awareness and understanding here are closer between holders and lookalikes than in the other segments, suggesting this group is genuinely on the fence rather than mismatched - a smaller but very reachable pool.",
+    "channel": "Same village-agent / VUP channel as the East rural segment, but this group's slightly higher Ubudehe category means a modestly higher contribution tier may be viable.",
+    "product_angle": "Ejo Heza standard tier, positioned alongside the existing VUP relationship this group already has."
   }
 ]

@@ -44,7 +44,6 @@ def load_tables():
 
 bundle = load_bundle()
 facts, archetypes, briefs, seg_agg, seg_drivers, arch_drivers = load_tables()
-briefs = sorted(briefs, key=lambda b: b["priority"])
 FEATURES = bundle["features"]
 LABELS = facts["feature_labels"]
 
@@ -59,8 +58,9 @@ theme.hero(
 )
 
 top3 = briefs[:3]
+total_lookalike_millions = sum(b["adults_k"] for b in briefs) / 1000
 theme.finding_strip(
-    f"<b>{facts['total_lookalike_millions']:.2f} million</b> adults statistically resemble people who already "
+    f"<b>{total_lookalike_millions:.2f} million</b> adults statistically resemble people who already "
     f"hold insurance or a pension, but don't yet. The three easiest segments to reach: "
     + " · ".join(f"{b['title'].split('—')[-1].strip()} ({b['adults_k']/1000:.2f}M)" for b in top3)
 )
@@ -261,18 +261,19 @@ with tab4:
 # ================================================================== TAB 5
 with tab5:
     st.caption("Grounded in the exact numbers in this dashboard. Ask the chatbox for more detail.")
-    for b in briefs:
+    for i, b in enumerate(briefs, start=1):
         card_html = (
             '<div class="card">'
-            f'<span class="priority-badge priority-{min(b["priority"], 3)}">PRIORITY {b["priority"]}</span>'
+            f'<span class="priority-badge priority-{min(i, 3)}">PRIORITY {i}</span>'
             f'<span class="pill">{b["gap"]} · {b["adults_k"]/1000:.2f}M</span>'
             f'<h4>{b["title"]}</h4>'
-            f'<p style="margin:4px 0">{b["insight"]}</p>'
-            f'<p class="muted" style="margin:0"><b>Action:</b> {b["recommendation"]}</p>'
+            f'<p style="margin:4px 0">{b["body"]}</p>'
+            f'<p class="muted" style="margin:0"><b>Channel:</b> {b["channel"]}</p>'
+            f'<p class="muted" style="margin:0"><b>Product angle:</b> {b["product_angle"]}</p>'
             '</div>'
         )
         st.markdown(card_html, unsafe_allow_html=True)
 
 # ------------------------------------------------------------- floating chat
-_insights = [f"{b['title']}: {b['insight']} Action: {b['recommendation']}" for b in briefs]
+_insights = [f"{b['title']}: {b['body']} Channel: {b['channel']} Product angle: {b['product_angle']}" for b in briefs]
 ai_chat.render_floating_chat(ai_chat.build_context(facts, archetypes, _insights))

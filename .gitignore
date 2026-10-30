@@ -1,5 +1,31 @@
-DS_store
-__/
-*.pyc
+# ── macOS ──────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
 .venv/
-venv/env/
+venv/
+env/
+
+# ── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Secrets ─────────────────────────────────────────────────────────────────
+streamlit_app/.streamlit/secrets.toml
+
+# ── Local-only data (FinScope microdata terms — do not publish) ──────────────
+full_population_scored_LOCAL_ONLY.csv
+shap_full_population_LOCAL_ONLY.csv.gz
+
+# ── Editor / IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.claude/
+
+# ── Node (deck folder) ───────────────────────────────────────────────────────
+deck/node_modules/
