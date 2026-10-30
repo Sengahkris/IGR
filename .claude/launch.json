@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "insurance-gap-radar",
+      "runtimeExecutable": "/opt/miniconda3/bin/streamlit",
+      "runtimeArgs": ["run", "/Users/macbookpro/Projects/IMF/streamlit_app/app.py", "--server.port", "8502", "--server.headless", "true"],
+      "port": 8502
+    }
+  ]
+}

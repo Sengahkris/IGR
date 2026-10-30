@@ -1,0 +1,82 @@
+{
+  "n_respondents": 13994,
+  "adults_millions": 8.155637000000002,
+  "financial_inclusion": 0.96,
+  "health_cover": 0.8847746310124938,
+  "any_uptake": 0.285629253903914,
+  "insurance_uptake": 0.12584825771169497,
+  "pension_uptake": 0.21513112838133383,
+  "product_uptake": {
+    "Motor": 0.033053698658644125,
+    "Education": 0.008661018521418266,
+    "Household": 0.004612116960764683,
+    "Life": 0.04129748621845107,
+    "Credit life": 0.018003135483888686,
+    "Legal aid": 0.001344370025987662,
+    "Business": 0.0022784089115435277,
+    "Property": 0.0030856907379205314,
+    "Accident": 0.010805561075682906,
+    "Savings with risk": 0.03083285628618343,
+    "Home": 0.005067848129841253,
+    "Agriculture (crop/livestock)": 0.014416046719578357,
+    "Other insurance": 0.01103951543337205,
+    "RSSB public pension": 0.0377263540824719,
+    "Private pension": 0.011663240855273935,
+    "Ejo Heza": 0.18906153021292796
+  },
+  "province_uptake": {
+    "Kigali": {
+      "insurance_uptake": 0.15970903968009625,
+      "pension_uptake": 0.24692216973625747
+    },
+    "South": {
+      "insurance_uptake": 0.11436871986976463,
+      "pension_uptake": 0.16941257406267016
+    },
+    "West": {
+      "insurance_uptake": 0.09436035162614098,
+      "pension_uptake": 0.2060182755695304
+    },
+    "North": {
+      "insurance_uptake": 0.11663061700054826,
+      "pension_uptake": 0.25045885130717366
+    },
+    "East": {
+      "insurance_uptake": 0.14661145871127232,
+      "pension_uptake": 0.22257185476398897
+    }
+  },
+  "feature_labels": {
+    "age": "Age",
+    "sex": "Sex",
+    "marital_status": "Marital status",
+    "education": "Education",
+    "household_size": "Household size",
+    "ubudehe_category": "Ubudehe category",
+    "owns_motor_vehicle": "Owns a motor vehicle",
+    "main_livelihood": "Main livelihood",
+    "housing_situation": "Housing situation",
+    "skipped_meal_frequency": "Frequency of skipping meals",
+    "urban_rural": "Urban/rural",
+    "time_to_bank": "Time to nearest bank",
+    "time_to_insurance_branch": "Time to nearest insurance branch",
+    "time_to_sacco": "Time to nearest SACCO",
+    "used_mobile_money": "Uses mobile money",
+    "saves_money": "Saves money",
+    "has_emergency_savings": "Has emergency savings",
+    "agrees_insurance_never_pays": "Agrees insurance never pays out",
+    "agrees_insurance_protects": "Agrees insurance protects you",
+    "agrees_savings_better": "Prefers savings over insurance",
+    "understands_insurance": "Understands how insurance works",
+    "aware_medical_insurance": "Aware of medical insurance",
+    "aware_life_insurance": "Aware of life insurance",
+    "aware_microinsurance": "Aware of microinsurance",
+    "aware_third_party_insurance": "Aware of third-party insurance",
+    "borrowed_past_12m": "Borrowed money in the past 12 months",
+    "borrowed_from_bank": "Borrowed from a bank",
+    "borrowed_from_umurenge_sacco": "Borrowed from an Umurenge SACCO",
+    "borrowed_from_mfi_or_other_sacco": "Borrowed from an MFI/other SACCO",
+    "borrowed_via_mobile_money": "Borrowed via mobile money"
+  },
+  "total_lookalike_millions": 1.109937571482089
+}

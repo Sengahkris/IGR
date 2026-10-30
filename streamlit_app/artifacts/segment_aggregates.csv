@@ -1,0 +1,431 @@
+target,province,urban_rural,ubudehe_category,education,main_livelihood,n,adults_k,holder_rate,lookalike_rate,dissimilar_rate,mean_calibrated_prob
+insurance_uptake,East,Rural,1st category,No formal education,Dependent/social transfer,54,27.1231,0.0551,0.0,0.9449,0.0231
+insurance_uptake,East,Rural,2nd category,No formal education,Dependent/social transfer,25,13.8385,0.0,0.0,1.0,0.0369
+insurance_uptake,East,Rural,2nd category,No formal education,Farming/fishing,77,42.5907,0.1347,0.0184,0.8469,0.1082
+insurance_uptake,East,Rural,2nd category,No formal education,Informal/piece work,60,38.933,0.1325,0.0,0.8675,0.0956
+insurance_uptake,East,Rural,2nd category,No formal education,Salaried,20,13.7983,0.1425,0.0,0.8575,0.0862
+insurance_uptake,East,Rural,2nd category,Primary 1-3,Dependent/social transfer,21,8.8111,0.1252,0.0,0.8748,0.1154
+insurance_uptake,East,Rural,2nd category,Primary 1-3,Farming/fishing,43,25.7,0.1854,0.0432,0.7714,0.1043
+insurance_uptake,East,Rural,2nd category,Primary 1-3,Informal/piece work,71,48.9585,0.1291,0.0054,0.8655,0.0727
+insurance_uptake,East,Rural,2nd category,Primary 1-3,Salaried,22,15.6046,0.0,0.0,1.0,0.0618
+insurance_uptake,East,Rural,2nd category,Primary 4-6,Dependent/social transfer,30,27.7268,0.0486,0.0,0.9514,0.0522
+insurance_uptake,East,Rural,2nd category,Primary 4-6,Farming/fishing,200,141.5442,0.1475,0.0288,0.8237,0.129
+insurance_uptake,East,Rural,2nd category,Primary 4-6,Informal/piece work,167,160.3567,0.0951,0.0098,0.8951,0.0894
+insurance_uptake,East,Rural,2nd category,Primary 4-6,Salaried,74,55.914,0.1796,0.052,0.7684,0.1317
+insurance_uptake,East,Rural,2nd category,Primary 4-6,Self-employed,38,29.8043,0.1521,0.0,0.8479,0.1106
+insurance_uptake,East,Rural,2nd category,Secondary 1-3,Dependent/social transfer,22,29.6659,0.1384,0.0,0.8616,0.0664
+insurance_uptake,East,Rural,2nd category,Secondary 1-3,Farming/fishing,46,35.2467,0.2879,0.0179,0.6942,0.1496
+insurance_uptake,East,Rural,2nd category,Secondary 1-3,Informal/piece work,34,38.806,0.1582,0.0,0.8418,0.0549
+insurance_uptake,East,Rural,2nd category,Secondary 1-3,Self-employed,24,27.5204,0.0621,0.0125,0.9254,0.1003
+insurance_uptake,East,Rural,2nd category,Secondary 4-6,Farming/fishing,21,21.6653,0.2173,0.0324,0.7503,0.2004
+insurance_uptake,East,Rural,2nd category,Secondary 4-6,Salaried,26,29.6052,0.2159,0.1512,0.633,0.1688
+insurance_uptake,East,Rural,3rd category,No formal education,Farming/fishing,78,46.0176,0.1094,0.0175,0.8731,0.0979
+insurance_uptake,East,Rural,3rd category,No formal education,Informal/piece work,40,22.206,0.1208,0.0,0.8792,0.0538
+insurance_uptake,East,Rural,3rd category,Primary 1-3,Farming/fishing,55,33.2191,0.15,0.054,0.7961,0.1568
+insurance_uptake,East,Rural,3rd category,Primary 1-3,Informal/piece work,28,23.1379,0.2755,0.0,0.7245,0.0682
+insurance_uptake,East,Rural,3rd category,Primary 4-6,Dependent/social transfer,20,17.3665,0.0,0.0,1.0,0.0375
+insurance_uptake,East,Rural,3rd category,Primary 4-6,Farming/fishing,186,113.7756,0.1144,0.0514,0.8342,0.1398
+insurance_uptake,East,Rural,3rd category,Primary 4-6,Informal/piece work,78,67.1039,0.103,0.0045,0.8925,0.0618
+insurance_uptake,East,Rural,3rd category,Primary 4-6,Salaried,49,38.8079,0.2144,0.0247,0.7609,0.1453
+insurance_uptake,East,Rural,3rd category,Primary 4-6,Self-employed,28,25.9294,0.1437,0.067,0.7893,0.1177
+insurance_uptake,East,Rural,3rd category,Secondary 1-3,Farming/fishing,31,25.5026,0.1278,0.042,0.8302,0.1148
+insurance_uptake,East,Rural,3rd category,Secondary 4-6,Dependent/social transfer,25,25.6571,0.0445,0.058,0.8976,0.0986
+insurance_uptake,East,Rural,3rd category,Secondary 4-6,Farming/fishing,26,18.1251,0.3312,0.0962,0.5727,0.3289
+insurance_uptake,East,Rural,3rd category,Secondary 4-6,Salaried,25,18.8191,0.3205,0.1449,0.5346,0.2937
+insurance_uptake,East,Rural,3rd category,University or other higher education,Salaried,26,15.3395,0.5838,0.1515,0.2647,0.5616
+insurance_uptake,East,Urban,1st category,No formal education,Dependent/social transfer,27,5.7865,0.0051,0.0,0.9949,0.0259
+insurance_uptake,East,Urban,2nd category,No formal education,Farming/fishing,33,10.2513,0.1703,0.0,0.8297,0.0843
+insurance_uptake,East,Urban,2nd category,No formal education,Informal/piece work,29,10.7673,0.0884,0.0,0.9116,0.0622
+insurance_uptake,East,Urban,2nd category,Primary 1-3,Farming/fishing,30,7.429,0.2206,0.0,0.7794,0.1292
+insurance_uptake,East,Urban,2nd category,Primary 1-3,Informal/piece work,28,7.1761,0.1448,0.0,0.8552,0.0655
+insurance_uptake,East,Urban,2nd category,Primary 4-6,Dependent/social transfer,26,14.4501,0.1406,0.0,0.8594,0.045
+insurance_uptake,East,Urban,2nd category,Primary 4-6,Farming/fishing,91,27.4071,0.2395,0.0828,0.6777,0.1771
+insurance_uptake,East,Urban,2nd category,Primary 4-6,Informal/piece work,74,27.0077,0.079,0.0,0.921,0.073
+insurance_uptake,East,Urban,2nd category,Primary 4-6,Salaried,32,10.8713,0.082,0.0,0.918,0.0956
+insurance_uptake,East,Urban,2nd category,Primary 4-6,Self-employed,31,10.9481,0.0774,0.0628,0.8598,0.1154
+insurance_uptake,East,Urban,2nd category,Secondary 1-3,Informal/piece work,20,12.0712,0.2161,0.0,0.7839,0.0523
+insurance_uptake,East,Urban,2nd category,Secondary 4-6,Dependent/social transfer,21,16.4795,0.0642,0.0,0.9358,0.0555
+insurance_uptake,East,Urban,2nd category,Secondary 4-6,Farming/fishing,24,9.3845,0.1491,0.0,0.8509,0.1495
+insurance_uptake,East,Urban,3rd category,No formal education,Farming/fishing,23,5.3399,0.0488,0.0155,0.9358,0.0763
+insurance_uptake,East,Urban,3rd category,Primary 1-3,Farming/fishing,22,7.0703,0.0666,0.02,0.9134,0.1359
+insurance_uptake,East,Urban,3rd category,Primary 4-6,Farming/fishing,85,27.4059,0.0906,0.0599,0.8494,0.1364
+insurance_uptake,East,Urban,3rd category,Primary 4-6,Informal/piece work,31,13.8532,0.1374,0.0,0.8626,0.0563
+insurance_uptake,East,Urban,3rd category,Primary 4-6,Salaried,24,6.8955,0.1035,0.0991,0.7974,0.2062
+insurance_uptake,East,Urban,3rd category,Primary 4-6,Self-employed,31,13.0784,0.1771,0.0825,0.7404,0.2289
+insurance_uptake,East,Urban,3rd category,Secondary 4-6,Dependent/social transfer,23,14.108,0.0667,0.0,0.9333,0.0732
+insurance_uptake,East,Urban,3rd category,Secondary 4-6,Salaried,22,5.7103,0.4169,0.2343,0.3488,0.474
+insurance_uptake,East,Urban,3rd category,University or other higher education,Salaried,44,18.6087,0.5583,0.2436,0.1981,0.6659
+insurance_uptake,Kigali,Rural,2nd category,Primary 4-6,Farming/fishing,21,9.2735,0.1347,0.1826,0.6827,0.2068
+insurance_uptake,Kigali,Rural,2nd category,Primary 4-6,Informal/piece work,23,14.1751,0.0267,0.0,0.9733,0.0758
+insurance_uptake,Kigali,Rural,2nd category,Primary 4-6,Salaried,23,9.2697,0.1816,0.0793,0.739,0.1437
+insurance_uptake,Kigali,Rural,3rd category,Primary 4-6,Informal/piece work,24,9.1893,0.0797,0.0,0.9203,0.084
+insurance_uptake,Kigali,Urban,2nd category,Primary 4-6,Dependent/social transfer,28,20.2828,0.064,0.0,0.936,0.0768
+insurance_uptake,Kigali,Urban,2nd category,Primary 4-6,Informal/piece work,72,50.4319,0.0353,0.0183,0.9465,0.0539
+insurance_uptake,Kigali,Urban,2nd category,Primary 4-6,Salaried,32,23.5942,0.0858,0.0242,0.89,0.12
+insurance_uptake,Kigali,Urban,2nd category,Primary 4-6,Self-employed,46,28.2355,0.1478,0.07,0.7822,0.178
+insurance_uptake,Kigali,Urban,2nd category,Secondary 1-3,Dependent/social transfer,20,27.8568,0.1043,0.0,0.8957,0.0841
+insurance_uptake,Kigali,Urban,2nd category,Secondary 1-3,Self-employed,27,18.873,0.0794,0.0837,0.8368,0.1042
+insurance_uptake,Kigali,Urban,2nd category,Secondary 4-6,Dependent/social transfer,28,29.0444,0.0696,0.1084,0.8219,0.0701
+insurance_uptake,Kigali,Urban,2nd category,Secondary 4-6,Informal/piece work,24,13.5732,0.0151,0.0,0.9849,0.039
+insurance_uptake,Kigali,Urban,2nd category,Secondary 4-6,Salaried,30,21.203,0.0,0.0316,0.9684,0.0817
+insurance_uptake,Kigali,Urban,2nd category,Secondary 4-6,Self-employed,22,13.9234,0.1891,0.0,0.8109,0.1192
+insurance_uptake,Kigali,Urban,3rd category,Primary 4-6,Dependent/social transfer,27,18.9381,0.0322,0.032,0.9358,0.0742
+insurance_uptake,Kigali,Urban,3rd category,Primary 4-6,Farming/fishing,24,19.48,0.0291,0.0396,0.9314,0.1293
+insurance_uptake,Kigali,Urban,3rd category,Primary 4-6,Informal/piece work,35,22.517,0.046,0.0,0.954,0.0446
+insurance_uptake,Kigali,Urban,3rd category,Primary 4-6,Salaried,39,25.8268,0.1022,0.1041,0.7937,0.1564
+insurance_uptake,Kigali,Urban,3rd category,Primary 4-6,Self-employed,54,36.2235,0.1792,0.2159,0.6049,0.2525
+insurance_uptake,Kigali,Urban,3rd category,Secondary 1-3,Dependent/social transfer,24,20.6496,0.1027,0.0591,0.8382,0.1066
+insurance_uptake,Kigali,Urban,3rd category,Secondary 1-3,Self-employed,26,17.8713,0.299,0.0491,0.6519,0.3282
+insurance_uptake,Kigali,Urban,3rd category,Secondary 4-6,Dependent/social transfer,54,52.1006,0.0885,0.0205,0.891,0.1164
+insurance_uptake,Kigali,Urban,3rd category,Secondary 4-6,Informal/piece work,22,14.1655,0.0,0.0,1.0,0.0679
+insurance_uptake,Kigali,Urban,3rd category,Secondary 4-6,Salaried,76,52.2137,0.1761,0.077,0.7469,0.2561
+insurance_uptake,Kigali,Urban,3rd category,Secondary 4-6,Self-employed,57,41.4691,0.2385,0.0732,0.6883,0.2948
+insurance_uptake,Kigali,Urban,3rd category,University or other higher education,Dependent/social transfer,31,22.7861,0.1652,0.2182,0.6166,0.291
+insurance_uptake,Kigali,Urban,3rd category,University or other higher education,Salaried,128,73.7496,0.557,0.1506,0.2924,0.6124
+insurance_uptake,Kigali,Urban,3rd category,University or other higher education,Self-employed,47,23.164,0.6205,0.1431,0.2364,0.6644
+insurance_uptake,North,Rural,1st category,No formal education,Dependent/social transfer,37,15.9912,0.0351,0.0,0.9649,0.0287
+insurance_uptake,North,Rural,1st category,No formal education,Informal/piece work,20,14.8428,0.1992,0.0,0.8008,0.0464
+insurance_uptake,North,Rural,1st category,Primary 4-6,Informal/piece work,26,16.3592,0.0,0.0,1.0,0.0508
+insurance_uptake,North,Rural,2nd category,No formal education,Dependent/social transfer,22,8.207,0.0636,0.0,0.9364,0.0543
+insurance_uptake,North,Rural,2nd category,No formal education,Farming/fishing,60,29.6636,0.1012,0.0,0.8988,0.0729
+insurance_uptake,North,Rural,2nd category,No formal education,Informal/piece work,67,49.1605,0.0481,0.0,0.9519,0.0574
+insurance_uptake,North,Rural,2nd category,Primary 1-3,Farming/fishing,34,15.9324,0.0678,0.018,0.9142,0.1306
+insurance_uptake,North,Rural,2nd category,Primary 1-3,Informal/piece work,45,31.4819,0.1384,0.0401,0.8215,0.0849
+insurance_uptake,North,Rural,2nd category,Primary 4-6,Dependent/social transfer,22,22.0749,0.0948,0.0,0.9052,0.0774
+insurance_uptake,North,Rural,2nd category,Primary 4-6,Farming/fishing,132,87.9085,0.1233,0.1043,0.7724,0.1361
+insurance_uptake,North,Rural,2nd category,Primary 4-6,Informal/piece work,162,127.5719,0.0709,0.0,0.9291,0.0707
+insurance_uptake,North,Rural,2nd category,Primary 4-6,Salaried,35,36.7681,0.0775,0.0,0.9225,0.1431
+insurance_uptake,North,Rural,2nd category,Primary 4-6,Self-employed,23,20.5432,0.0911,0.0404,0.8685,0.1403
+insurance_uptake,North,Rural,2nd category,Secondary 1-3,Dependent/social transfer,21,31.3935,0.0,0.0,1.0,0.0506
+insurance_uptake,North,Rural,2nd category,Secondary 1-3,Farming/fishing,27,20.4318,0.2329,0.0565,0.7106,0.1748
+insurance_uptake,North,Rural,2nd category,Secondary 1-3,Informal/piece work,28,25.1105,0.0525,0.0,0.9475,0.0598
+insurance_uptake,North,Rural,3rd category,No formal education,Farming/fishing,40,21.1591,0.0474,0.02,0.9326,0.0758
+insurance_uptake,North,Rural,3rd category,Primary 1-3,Farming/fishing,20,11.7685,0.2441,0.0,0.7559,0.1459
+insurance_uptake,North,Rural,3rd category,Primary 1-3,Informal/piece work,26,15.7379,0.0364,0.0,0.9636,0.0516
+insurance_uptake,North,Rural,3rd category,Primary 4-6,Farming/fishing,88,54.5122,0.2629,0.1474,0.5897,0.1722
+insurance_uptake,North,Rural,3rd category,Primary 4-6,Informal/piece work,70,53.8739,0.0638,0.003,0.9332,0.0688
+insurance_uptake,North,Rural,3rd category,Primary 4-6,Salaried,21,13.7985,0.183,0.0,0.817,0.1711
+insurance_uptake,North,Rural,3rd category,Secondary 1-3,Farming/fishing,23,19.253,0.1189,0.0245,0.8566,0.1479
+insurance_uptake,North,Urban,2nd category,No formal education,Farming/fishing,20,3.6369,0.1023,0.0,0.8977,0.0623
+insurance_uptake,North,Urban,2nd category,No formal education,Informal/piece work,24,7.01,0.0,0.0,1.0,0.0575
+insurance_uptake,North,Urban,2nd category,Primary 1-3,Informal/piece work,23,9.3472,0.0133,0.0,0.9867,0.0411
+insurance_uptake,North,Urban,2nd category,Primary 4-6,Farming/fishing,23,4.9065,0.0169,0.047,0.9361,0.1454
+insurance_uptake,North,Urban,2nd category,Primary 4-6,Informal/piece work,77,29.9381,0.0468,0.0,0.9532,0.0628
+insurance_uptake,North,Urban,2nd category,Secondary 1-3,Informal/piece work,20,12.0169,0.0413,0.0,0.9587,0.067
+insurance_uptake,North,Urban,3rd category,Primary 4-6,Farming/fishing,32,9.3369,0.2742,0.1193,0.6065,0.158
+insurance_uptake,North,Urban,3rd category,Primary 4-6,Informal/piece work,26,9.3365,0.0536,0.0129,0.9335,0.0651
+insurance_uptake,North,Urban,3rd category,Secondary 4-6,Salaried,21,6.6026,0.259,0.1776,0.5635,0.3519
+insurance_uptake,North,Urban,3rd category,University or other higher education,Salaried,25,13.2558,0.3408,0.2183,0.4408,0.4355
+insurance_uptake,South,Rural,1st category,No formal education,Dependent/social transfer,58,21.4253,0.0534,0.0,0.9466,0.0371
+insurance_uptake,South,Rural,1st category,No formal education,Farming/fishing,26,10.8058,0.0562,0.0,0.9438,0.0477
+insurance_uptake,South,Rural,1st category,No formal education,Informal/piece work,29,16.4948,0.0,0.0,1.0,0.031
+insurance_uptake,South,Rural,1st category,Primary 1-3,Dependent/social transfer,21,11.4025,0.0661,0.0,0.9339,0.0248
+insurance_uptake,South,Rural,1st category,Primary 4-6,Dependent/social transfer,37,21.2895,0.0495,0.0,0.9505,0.038
+insurance_uptake,South,Rural,1st category,Primary 4-6,Informal/piece work,35,29.454,0.042,0.0,0.958,0.0301
+insurance_uptake,South,Rural,2nd category,No formal education,Dependent/social transfer,24,11.1775,0.0879,0.0,0.9121,0.0447
+insurance_uptake,South,Rural,2nd category,No formal education,Farming/fishing,80,39.2721,0.0742,0.0,0.9258,0.0933
+insurance_uptake,South,Rural,2nd category,No formal education,Informal/piece work,70,35.7275,0.0911,0.0,0.9089,0.0657
+insurance_uptake,South,Rural,2nd category,No formal education,Salaried,25,17.0955,0.0942,0.0,0.9058,0.075
+insurance_uptake,South,Rural,2nd category,Primary 1-3,Farming/fishing,50,26.3352,0.164,0.0356,0.8004,0.1175
+insurance_uptake,South,Rural,2nd category,Primary 1-3,Informal/piece work,71,38.9284,0.0704,0.0,0.9296,0.0725
+insurance_uptake,South,Rural,2nd category,Primary 4-6,Dependent/social transfer,54,44.2153,0.0568,0.0157,0.9275,0.0522
+insurance_uptake,South,Rural,2nd category,Primary 4-6,Farming/fishing,189,116.6065,0.1067,0.0219,0.8713,0.106
+insurance_uptake,South,Rural,2nd category,Primary 4-6,Informal/piece work,179,134.7289,0.0932,0.0017,0.9051,0.0653
+insurance_uptake,South,Rural,2nd category,Primary 4-6,Salaried,61,42.7612,0.1475,0.0084,0.8441,0.1188
+insurance_uptake,South,Rural,2nd category,Primary 4-6,Self-employed,21,20.6923,0.0941,0.0,0.9059,0.1178
+insurance_uptake,South,Rural,2nd category,Secondary 1-3,Dependent/social transfer,22,26.3909,0.0747,0.0,0.9253,0.0383
+insurance_uptake,South,Rural,2nd category,Secondary 1-3,Farming/fishing,32,29.0002,0.2471,0.0,0.7529,0.1476
+insurance_uptake,South,Rural,2nd category,Secondary 1-3,Informal/piece work,28,27.64,0.0388,0.0264,0.9349,0.0706
+insurance_uptake,South,Rural,2nd category,Secondary 4-6,Farming/fishing,30,30.2293,0.0671,0.0827,0.8502,0.1304
+insurance_uptake,South,Rural,3rd category,No formal education,Farming/fishing,65,35.1114,0.0403,0.0,0.9597,0.0753
+insurance_uptake,South,Rural,3rd category,No formal education,Informal/piece work,38,22.0378,0.0832,0.0,0.9168,0.0539
+insurance_uptake,South,Rural,3rd category,Primary 1-3,Farming/fishing,64,33.2295,0.067,0.0118,0.9211,0.104
+insurance_uptake,South,Rural,3rd category,Primary 1-3,Informal/piece work,41,23.8292,0.0869,0.0,0.9131,0.0617
+insurance_uptake,South,Rural,3rd category,Primary 4-6,Dependent/social transfer,24,21.7575,0.0671,0.0663,0.8666,0.0744
+insurance_uptake,South,Rural,3rd category,Primary 4-6,Farming/fishing,183,106.3024,0.14,0.0175,0.8425,0.1088
+insurance_uptake,South,Rural,3rd category,Primary 4-6,Informal/piece work,160,97.8274,0.0666,0.0,0.9334,0.0586
+insurance_uptake,South,Rural,3rd category,Primary 4-6,Salaried,46,32.1982,0.2818,0.051,0.6672,0.1805
+insurance_uptake,South,Rural,3rd category,Primary 4-6,Self-employed,33,25.2241,0.0518,0.0167,0.9315,0.124
+insurance_uptake,South,Rural,3rd category,Secondary 1-3,Farming/fishing,25,18.9466,0.0498,0.1269,0.8232,0.1697
+insurance_uptake,South,Rural,3rd category,Secondary 1-3,Informal/piece work,28,28.7594,0.0649,0.0,0.9351,0.0596
+insurance_uptake,South,Rural,3rd category,Secondary 4-6,Salaried,27,26.7212,0.233,0.0997,0.6673,0.239
+insurance_uptake,South,Urban,1st category,No formal education,Dependent/social transfer,21,2.7065,0.0713,0.0,0.9287,0.0309
+insurance_uptake,South,Urban,2nd category,No formal education,Farming/fishing,20,5.6422,0.1519,0.0,0.8481,0.0678
+insurance_uptake,South,Urban,2nd category,No formal education,Informal/piece work,23,5.3536,0.1242,0.0,0.8758,0.0451
+insurance_uptake,South,Urban,2nd category,Primary 1-3,Informal/piece work,31,10.1384,0.1584,0.0,0.8416,0.0696
+insurance_uptake,South,Urban,2nd category,Primary 4-6,Dependent/social transfer,27,9.5978,0.0838,0.0,0.9162,0.0456
+insurance_uptake,South,Urban,2nd category,Primary 4-6,Farming/fishing,58,14.1245,0.0927,0.0609,0.8465,0.1103
+insurance_uptake,South,Urban,2nd category,Primary 4-6,Informal/piece work,85,23.9945,0.0501,0.0,0.9499,0.053
+insurance_uptake,South,Urban,2nd category,Primary 4-6,Salaried,30,6.9911,0.099,0.0,0.901,0.1044
+insurance_uptake,South,Urban,2nd category,Primary 4-6,Self-employed,33,6.8475,0.0797,0.0,0.9203,0.1167
+insurance_uptake,South,Urban,2nd category,Secondary 4-6,Salaried,20,5.6573,0.1641,0.0,0.8359,0.1986
+insurance_uptake,South,Urban,3rd category,Primary 1-3,Informal/piece work,20,8.4084,0.0579,0.0,0.9421,0.0529
+insurance_uptake,South,Urban,3rd category,Primary 4-6,Farming/fishing,69,16.7346,0.2893,0.0585,0.6522,0.1973
+insurance_uptake,South,Urban,3rd category,Primary 4-6,Informal/piece work,61,19.4929,0.0963,0.0,0.9037,0.0726
+insurance_uptake,South,Urban,3rd category,Primary 4-6,Salaried,27,8.9868,0.1626,0.1962,0.6412,0.2502
+insurance_uptake,South,Urban,3rd category,Primary 4-6,Self-employed,32,11.0975,0.284,0.0228,0.6932,0.2006
+insurance_uptake,South,Urban,3rd category,Secondary 4-6,Dependent/social transfer,24,12.1277,0.1561,0.0241,0.8198,0.1297
+insurance_uptake,South,Urban,3rd category,Secondary 4-6,Salaried,31,8.6297,0.2738,0.2227,0.5035,0.2838
+insurance_uptake,South,Urban,3rd category,University or other higher education,Salaried,66,21.6609,0.6208,0.1635,0.2157,0.577
+insurance_uptake,West,Rural,1st category,No formal education,Dependent/social transfer,63,26.1438,0.0475,0.0,0.9525,0.0327
+insurance_uptake,West,Rural,1st category,No formal education,Farming/fishing,25,9.7475,0.0434,0.0,0.9566,0.0517
+insurance_uptake,West,Rural,1st category,No formal education,Informal/piece work,33,20.2661,0.0498,0.0,0.9502,0.0326
+insurance_uptake,West,Rural,1st category,Primary 1-3,Informal/piece work,31,21.3724,0.0,0.0,1.0,0.0289
+insurance_uptake,West,Rural,1st category,Primary 4-6,Informal/piece work,38,24.9667,0.0,0.0,1.0,0.0357
+insurance_uptake,West,Rural,2nd category,No formal education,Dependent/social transfer,38,17.7136,0.011,0.0315,0.9575,0.0481
+insurance_uptake,West,Rural,2nd category,No formal education,Farming/fishing,71,40.1821,0.0186,0.0209,0.9605,0.0909
+insurance_uptake,West,Rural,2nd category,No formal education,Informal/piece work,90,55.0042,0.0457,0.0,0.9543,0.0571
+insurance_uptake,West,Rural,2nd category,Primary 1-3,Dependent/social transfer,25,14.9581,0.1595,0.0,0.8405,0.0834
+insurance_uptake,West,Rural,2nd category,Primary 1-3,Farming/fishing,30,17.7338,0.2276,0.0,0.7724,0.0895
+insurance_uptake,West,Rural,2nd category,Primary 1-3,Informal/piece work,67,41.7045,0.03,0.0,0.97,0.0417
+insurance_uptake,West,Rural,2nd category,Primary 1-3,Salaried,20,15.0493,0.372,0.0323,0.5957,0.2796
+insurance_uptake,West,Rural,2nd category,Primary 4-6,Dependent/social transfer,28,22.968,0.076,0.0,0.924,0.0595
+insurance_uptake,West,Rural,2nd category,Primary 4-6,Farming/fishing,113,70.1847,0.084,0.0197,0.8963,0.1044
+insurance_uptake,West,Rural,2nd category,Primary 4-6,Informal/piece work,168,105.4292,0.0296,0.0,0.9704,0.0556
+insurance_uptake,West,Rural,2nd category,Primary 4-6,Salaried,31,24.0351,0.2784,0.0274,0.6941,0.2252
+insurance_uptake,West,Rural,2nd category,Primary 4-6,Self-employed,28,19.8815,0.0171,0.0,0.9829,0.0668
+insurance_uptake,West,Rural,2nd category,Secondary 1-3,Informal/piece work,24,19.8333,0.0,0.0,1.0,0.0524
+insurance_uptake,West,Rural,3rd category,No formal education,Farming/fishing,57,26.0207,0.023,0.0284,0.9486,0.0774
+insurance_uptake,West,Rural,3rd category,No formal education,Informal/piece work,45,24.1109,0.0804,0.0,0.9196,0.0572
+insurance_uptake,West,Rural,3rd category,Primary 1-3,Farming/fishing,39,21.3824,0.0235,0.0,0.9765,0.06
+insurance_uptake,West,Rural,3rd category,Primary 1-3,Informal/piece work,36,19.4426,0.2019,0.0,0.7981,0.0727
+insurance_uptake,West,Rural,3rd category,Primary 1-3,Salaried,20,10.4117,0.4449,0.0382,0.5169,0.3422
+insurance_uptake,West,Rural,3rd category,Primary 4-6,Dependent/social transfer,31,26.5524,0.008,0.0,0.992,0.0347
+insurance_uptake,West,Rural,3rd category,Primary 4-6,Farming/fishing,130,72.9179,0.0339,0.0621,0.904,0.102
+insurance_uptake,West,Rural,3rd category,Primary 4-6,Informal/piece work,87,49.7755,0.0116,0.0,0.9884,0.0521
+insurance_uptake,West,Rural,3rd category,Primary 4-6,Salaried,49,32.473,0.3475,0.0483,0.6042,0.3097
+insurance_uptake,West,Rural,3rd category,Primary 4-6,Self-employed,29,20.8209,0.0817,0.0567,0.8617,0.1028
+insurance_uptake,West,Rural,3rd category,Secondary 4-6,Dependent/social transfer,20,21.6649,0.0974,0.0,0.9026,0.0547
+insurance_uptake,West,Urban,1st category,Primary 4-6,Informal/piece work,20,5.7641,0.0,0.0,1.0,0.03
+insurance_uptake,West,Urban,2nd category,No formal education,Farming/fishing,21,5.1512,0.0,0.0,1.0,0.0906
+insurance_uptake,West,Urban,2nd category,No formal education,Informal/piece work,32,10.2581,0.2318,0.0,0.7682,0.0513
+insurance_uptake,West,Urban,2nd category,Primary 1-3,Informal/piece work,35,14.0136,0.0,0.0,1.0,0.0576
+insurance_uptake,West,Urban,2nd category,Primary 4-6,Dependent/social transfer,23,13.1289,0.0,0.0,1.0,0.045
+insurance_uptake,West,Urban,2nd category,Primary 4-6,Farming/fishing,50,13.455,0.0222,0.0703,0.9075,0.0943
+insurance_uptake,West,Urban,2nd category,Primary 4-6,Informal/piece work,85,26.6162,0.1132,0.0129,0.8739,0.0623
+insurance_uptake,West,Urban,2nd category,Primary 4-6,Self-employed,28,11.0016,0.0141,0.0213,0.9646,0.1305
+insurance_uptake,West,Urban,2nd category,Secondary 1-3,Informal/piece work,22,10.1715,0.1357,0.0,0.8643,0.0406
+insurance_uptake,West,Urban,3rd category,Primary 1-3,Farming/fishing,21,4.1833,0.1296,0.0923,0.7781,0.178
+insurance_uptake,West,Urban,3rd category,Primary 4-6,Dependent/social transfer,24,7.7059,0.0299,0.0678,0.9023,0.0875
+insurance_uptake,West,Urban,3rd category,Primary 4-6,Farming/fishing,61,19.3089,0.1078,0.0158,0.8765,0.108
+insurance_uptake,West,Urban,3rd category,Primary 4-6,Informal/piece work,59,20.5589,0.0383,0.0,0.9617,0.0545
+insurance_uptake,West,Urban,3rd category,Primary 4-6,Salaried,21,5.2796,0.2202,0.0621,0.7177,0.2632
+insurance_uptake,West,Urban,3rd category,Primary 4-6,Self-employed,37,13.5139,0.4157,0.1716,0.4127,0.357
+insurance_uptake,West,Urban,3rd category,Secondary 4-6,Dependent/social transfer,40,23.4228,0.0899,0.106,0.804,0.1398
+insurance_uptake,West,Urban,3rd category,Secondary 4-6,Salaried,21,6.1022,0.2224,0.1043,0.6733,0.2758
+insurance_uptake,West,Urban,3rd category,University or other higher education,Salaried,34,12.5223,0.3588,0.4387,0.2025,0.5592
+pension_uptake,East,Rural,1st category,No formal education,Dependent/social transfer,54,27.1231,0.2314,0.036,0.7325,0.1608
+pension_uptake,East,Rural,2nd category,No formal education,Dependent/social transfer,25,13.8385,0.133,0.0437,0.8234,0.1156
+pension_uptake,East,Rural,2nd category,No formal education,Farming/fishing,77,42.5907,0.0979,0.1168,0.7853,0.1918
+pension_uptake,East,Rural,2nd category,No formal education,Informal/piece work,60,38.933,0.1143,0.0,0.8857,0.1307
+pension_uptake,East,Rural,2nd category,No formal education,Salaried,20,13.7983,0.3821,0.0425,0.5754,0.1744
+pension_uptake,East,Rural,2nd category,Primary 1-3,Dependent/social transfer,21,8.8111,0.2046,0.0,0.7954,0.1537
+pension_uptake,East,Rural,2nd category,Primary 1-3,Farming/fishing,43,25.7,0.3343,0.1056,0.5601,0.1915
+pension_uptake,East,Rural,2nd category,Primary 1-3,Informal/piece work,71,48.9585,0.1696,0.0355,0.7949,0.1335
+pension_uptake,East,Rural,2nd category,Primary 1-3,Salaried,22,15.6046,0.3014,0.091,0.6076,0.163
+pension_uptake,East,Rural,2nd category,Primary 4-6,Dependent/social transfer,30,27.7268,0.1851,0.0,0.8149,0.0984
+pension_uptake,East,Rural,2nd category,Primary 4-6,Farming/fishing,200,141.5442,0.2941,0.1883,0.5176,0.2582
+pension_uptake,East,Rural,2nd category,Primary 4-6,Informal/piece work,167,160.3567,0.1495,0.0467,0.8039,0.1607
+pension_uptake,East,Rural,2nd category,Primary 4-6,Salaried,74,55.914,0.3234,0.154,0.5225,0.2516
+pension_uptake,East,Rural,2nd category,Primary 4-6,Self-employed,38,29.8043,0.2798,0.1012,0.619,0.2208
+pension_uptake,East,Rural,2nd category,Secondary 1-3,Dependent/social transfer,22,29.6659,0.0683,0.0,0.9317,0.1001
+pension_uptake,East,Rural,2nd category,Secondary 1-3,Farming/fishing,46,35.2467,0.2768,0.1908,0.5324,0.2502
+pension_uptake,East,Rural,2nd category,Secondary 1-3,Informal/piece work,34,38.806,0.2569,0.0219,0.7213,0.1171
+pension_uptake,East,Rural,2nd category,Secondary 1-3,Self-employed,24,27.5204,0.2365,0.0922,0.6714,0.1752
+pension_uptake,East,Rural,2nd category,Secondary 4-6,Farming/fishing,21,21.6653,0.1749,0.6004,0.2247,0.3166
+pension_uptake,East,Rural,2nd category,Secondary 4-6,Salaried,26,29.6052,0.3343,0.1717,0.4939,0.3212
+pension_uptake,East,Rural,3rd category,No formal education,Farming/fishing,78,46.0176,0.1767,0.152,0.6713,0.2105
+pension_uptake,East,Rural,3rd category,No formal education,Informal/piece work,40,22.206,0.0581,0.014,0.9278,0.1457
+pension_uptake,East,Rural,3rd category,Primary 1-3,Farming/fishing,55,33.2191,0.1806,0.3782,0.4411,0.2617
+pension_uptake,East,Rural,3rd category,Primary 1-3,Informal/piece work,28,23.1379,0.2423,0.0117,0.746,0.122
+pension_uptake,East,Rural,3rd category,Primary 4-6,Dependent/social transfer,20,17.3665,0.126,0.0,0.874,0.088
+pension_uptake,East,Rural,3rd category,Primary 4-6,Farming/fishing,186,113.7756,0.1957,0.2188,0.5855,0.2509
+pension_uptake,East,Rural,3rd category,Primary 4-6,Informal/piece work,78,67.1039,0.0956,0.0315,0.8729,0.145
+pension_uptake,East,Rural,3rd category,Primary 4-6,Salaried,49,38.8079,0.2854,0.1035,0.6111,0.2445
+pension_uptake,East,Rural,3rd category,Primary 4-6,Self-employed,28,25.9294,0.2021,0.1472,0.6507,0.2189
+pension_uptake,East,Rural,3rd category,Secondary 1-3,Farming/fishing,31,25.5026,0.2617,0.0964,0.6418,0.1938
+pension_uptake,East,Rural,3rd category,Secondary 4-6,Dependent/social transfer,25,25.6571,0.2333,0.0956,0.671,0.1546
+pension_uptake,East,Rural,3rd category,Secondary 4-6,Farming/fishing,26,18.1251,0.6178,0.1651,0.2171,0.4126
+pension_uptake,East,Rural,3rd category,Secondary 4-6,Salaried,25,18.8191,0.52,0.2019,0.2782,0.5197
+pension_uptake,East,Rural,3rd category,University or other higher education,Salaried,26,15.3395,0.7085,0.2052,0.0863,0.6468
+pension_uptake,East,Urban,1st category,No formal education,Dependent/social transfer,27,5.7865,0.1423,0.0,0.8577,0.1335
+pension_uptake,East,Urban,2nd category,No formal education,Farming/fishing,33,10.2513,0.1123,0.0325,0.8551,0.1582
+pension_uptake,East,Urban,2nd category,No formal education,Informal/piece work,29,10.7673,0.1663,0.0333,0.8004,0.1331
+pension_uptake,East,Urban,2nd category,Primary 1-3,Farming/fishing,30,7.429,0.1665,0.2439,0.5895,0.2167
+pension_uptake,East,Urban,2nd category,Primary 1-3,Informal/piece work,28,7.1761,0.2452,0.0136,0.7412,0.1623
+pension_uptake,East,Urban,2nd category,Primary 4-6,Dependent/social transfer,26,14.4501,0.1388,0.0564,0.8048,0.0932
+pension_uptake,East,Urban,2nd category,Primary 4-6,Farming/fishing,91,27.4071,0.2902,0.2736,0.4362,0.2896
+pension_uptake,East,Urban,2nd category,Primary 4-6,Informal/piece work,74,27.0077,0.1908,0.0368,0.7724,0.1542
+pension_uptake,East,Urban,2nd category,Primary 4-6,Salaried,32,10.8713,0.1506,0.1594,0.6899,0.2093
+pension_uptake,East,Urban,2nd category,Primary 4-6,Self-employed,31,10.9481,0.2516,0.0964,0.652,0.2103
+pension_uptake,East,Urban,2nd category,Secondary 1-3,Informal/piece work,20,12.0712,0.1833,0.0455,0.7712,0.1248
+pension_uptake,East,Urban,2nd category,Secondary 4-6,Dependent/social transfer,21,16.4795,0.0,0.0,1.0,0.0735
+pension_uptake,East,Urban,2nd category,Secondary 4-6,Farming/fishing,24,9.3845,0.0648,0.2436,0.6916,0.2297
+pension_uptake,East,Urban,3rd category,No formal education,Farming/fishing,23,5.3399,0.0568,0.2609,0.6824,0.1977
+pension_uptake,East,Urban,3rd category,Primary 1-3,Farming/fishing,22,7.0703,0.2305,0.2531,0.5163,0.277
+pension_uptake,East,Urban,3rd category,Primary 4-6,Farming/fishing,85,27.4059,0.2635,0.2739,0.4626,0.2632
+pension_uptake,East,Urban,3rd category,Primary 4-6,Informal/piece work,31,13.8532,0.1219,0.0503,0.8277,0.1271
+pension_uptake,East,Urban,3rd category,Primary 4-6,Salaried,24,6.8955,0.2877,0.1729,0.5394,0.3138
+pension_uptake,East,Urban,3rd category,Primary 4-6,Self-employed,31,13.0784,0.2692,0.2317,0.4992,0.3134
+pension_uptake,East,Urban,3rd category,Secondary 4-6,Dependent/social transfer,23,14.108,0.051,0.0386,0.9104,0.118
+pension_uptake,East,Urban,3rd category,Secondary 4-6,Salaried,22,5.7103,0.833,0.167,0.0,0.8226
+pension_uptake,East,Urban,3rd category,University or other higher education,Salaried,44,18.6087,0.8651,0.0754,0.0595,0.8308
+pension_uptake,Kigali,Rural,2nd category,Primary 4-6,Farming/fishing,21,9.2735,0.3566,0.3788,0.2645,0.3984
+pension_uptake,Kigali,Rural,2nd category,Primary 4-6,Informal/piece work,23,14.1751,0.0772,0.2039,0.7188,0.192
+pension_uptake,Kigali,Rural,2nd category,Primary 4-6,Salaried,23,9.2697,0.2088,0.23,0.5612,0.2822
+pension_uptake,Kigali,Rural,3rd category,Primary 4-6,Informal/piece work,24,9.1893,0.1919,0.1488,0.6593,0.2405
+pension_uptake,Kigali,Urban,2nd category,Primary 4-6,Dependent/social transfer,28,20.2828,0.2643,0.0,0.7357,0.1468
+pension_uptake,Kigali,Urban,2nd category,Primary 4-6,Informal/piece work,72,50.4319,0.0634,0.0856,0.851,0.1381
+pension_uptake,Kigali,Urban,2nd category,Primary 4-6,Salaried,32,23.5942,0.1842,0.2166,0.5992,0.2287
+pension_uptake,Kigali,Urban,2nd category,Primary 4-6,Self-employed,46,28.2355,0.0358,0.0756,0.8887,0.1813
+pension_uptake,Kigali,Urban,2nd category,Secondary 1-3,Dependent/social transfer,20,27.8568,0.1449,0.0063,0.8488,0.1205
+pension_uptake,Kigali,Urban,2nd category,Secondary 1-3,Self-employed,27,18.873,0.1177,0.1498,0.7325,0.1963
+pension_uptake,Kigali,Urban,2nd category,Secondary 4-6,Dependent/social transfer,28,29.0444,0.0184,0.0462,0.9355,0.0996
+pension_uptake,Kigali,Urban,2nd category,Secondary 4-6,Informal/piece work,24,13.5732,0.1006,0.1103,0.7891,0.1747
+pension_uptake,Kigali,Urban,2nd category,Secondary 4-6,Salaried,30,21.203,0.1837,0.1453,0.671,0.2701
+pension_uptake,Kigali,Urban,2nd category,Secondary 4-6,Self-employed,22,13.9234,0.2023,0.0961,0.7016,0.1796
+pension_uptake,Kigali,Urban,3rd category,Primary 4-6,Dependent/social transfer,27,18.9381,0.0592,0.1265,0.8143,0.1779
+pension_uptake,Kigali,Urban,3rd category,Primary 4-6,Farming/fishing,24,19.48,0.3012,0.2038,0.495,0.2819
+pension_uptake,Kigali,Urban,3rd category,Primary 4-6,Informal/piece work,35,22.517,0.1493,0.0693,0.7813,0.1386
+pension_uptake,Kigali,Urban,3rd category,Primary 4-6,Salaried,39,25.8268,0.1645,0.1668,0.6687,0.2534
+pension_uptake,Kigali,Urban,3rd category,Primary 4-6,Self-employed,54,36.2235,0.3232,0.2108,0.466,0.3048
+pension_uptake,Kigali,Urban,3rd category,Secondary 1-3,Dependent/social transfer,24,20.6496,0.112,0.0422,0.8458,0.1389
+pension_uptake,Kigali,Urban,3rd category,Secondary 1-3,Self-employed,26,17.8713,0.1951,0.0592,0.7457,0.2464
+pension_uptake,Kigali,Urban,3rd category,Secondary 4-6,Dependent/social transfer,54,52.1006,0.1485,0.1197,0.7318,0.1503
+pension_uptake,Kigali,Urban,3rd category,Secondary 4-6,Informal/piece work,22,14.1655,0.2101,0.1069,0.683,0.1674
+pension_uptake,Kigali,Urban,3rd category,Secondary 4-6,Salaried,76,52.2137,0.4132,0.2404,0.3464,0.4141
+pension_uptake,Kigali,Urban,3rd category,Secondary 4-6,Self-employed,57,41.4691,0.1776,0.1535,0.6689,0.2552
+pension_uptake,Kigali,Urban,3rd category,University or other higher education,Dependent/social transfer,31,22.7861,0.2108,0.0872,0.702,0.1984
+pension_uptake,Kigali,Urban,3rd category,University or other higher education,Salaried,128,73.7496,0.5797,0.3655,0.0548,0.683
+pension_uptake,Kigali,Urban,3rd category,University or other higher education,Self-employed,47,23.164,0.1966,0.3422,0.4612,0.333
+pension_uptake,North,Rural,1st category,No formal education,Dependent/social transfer,37,15.9912,0.4365,0.0298,0.5337,0.1959
+pension_uptake,North,Rural,1st category,No formal education,Informal/piece work,20,14.8428,0.3982,0.0127,0.589,0.166
+pension_uptake,North,Rural,1st category,Primary 4-6,Informal/piece work,26,16.3592,0.2861,0.0556,0.6583,0.1492
+pension_uptake,North,Rural,2nd category,No formal education,Dependent/social transfer,22,8.207,0.3425,0.0817,0.5758,0.1566
+pension_uptake,North,Rural,2nd category,No formal education,Farming/fishing,60,29.6636,0.2184,0.0987,0.6829,0.1856
+pension_uptake,North,Rural,2nd category,No formal education,Informal/piece work,67,49.1605,0.2098,0.0,0.7902,0.1364
+pension_uptake,North,Rural,2nd category,Primary 1-3,Farming/fishing,34,15.9324,0.1688,0.1121,0.7191,0.2297
+pension_uptake,North,Rural,2nd category,Primary 1-3,Informal/piece work,45,31.4819,0.2443,0.0268,0.7289,0.1462
+pension_uptake,North,Rural,2nd category,Primary 4-6,Dependent/social transfer,22,22.0749,0.1561,0.0646,0.7793,0.0996
+pension_uptake,North,Rural,2nd category,Primary 4-6,Farming/fishing,132,87.9085,0.2172,0.2039,0.5789,0.2541
+pension_uptake,North,Rural,2nd category,Primary 4-6,Informal/piece work,162,127.5719,0.1486,0.0577,0.7937,0.1545
+pension_uptake,North,Rural,2nd category,Primary 4-6,Salaried,35,36.7681,0.0711,0.1931,0.7358,0.2398
+pension_uptake,North,Rural,2nd category,Primary 4-6,Self-employed,23,20.5432,0.4435,0.1142,0.4423,0.2177
+pension_uptake,North,Rural,2nd category,Secondary 1-3,Dependent/social transfer,21,31.3935,0.0363,0.0441,0.9195,0.0799
+pension_uptake,North,Rural,2nd category,Secondary 1-3,Farming/fishing,27,20.4318,0.3439,0.2149,0.4412,0.3315
+pension_uptake,North,Rural,2nd category,Secondary 1-3,Informal/piece work,28,25.1105,0.2796,0.1049,0.6155,0.1689
+pension_uptake,North,Rural,3rd category,No formal education,Farming/fishing,40,21.1591,0.2811,0.1852,0.5337,0.2155
+pension_uptake,North,Rural,3rd category,Primary 1-3,Farming/fishing,20,11.7685,0.5083,0.1125,0.3792,0.2462
+pension_uptake,North,Rural,3rd category,Primary 1-3,Informal/piece work,26,15.7379,0.2008,0.0867,0.7125,0.1637
+pension_uptake,North,Rural,3rd category,Primary 4-6,Farming/fishing,88,54.5122,0.296,0.2434,0.4606,0.3244
+pension_uptake,North,Rural,3rd category,Primary 4-6,Informal/piece work,70,53.8739,0.1872,0.0577,0.7551,0.1833
+pension_uptake,North,Rural,3rd category,Primary 4-6,Salaried,21,13.7985,0.4458,0.0931,0.4611,0.3626
+pension_uptake,North,Rural,3rd category,Secondary 1-3,Farming/fishing,23,19.253,0.2807,0.111,0.6082,0.2417
+pension_uptake,North,Urban,2nd category,No formal education,Farming/fishing,20,3.6369,0.2331,0.026,0.7409,0.1684
+pension_uptake,North,Urban,2nd category,No formal education,Informal/piece work,24,7.01,0.2175,0.0457,0.7368,0.155
+pension_uptake,North,Urban,2nd category,Primary 1-3,Informal/piece work,23,9.3472,0.1197,0.0116,0.8688,0.1054
+pension_uptake,North,Urban,2nd category,Primary 4-6,Farming/fishing,23,4.9065,0.1943,0.3595,0.4462,0.3418
+pension_uptake,North,Urban,2nd category,Primary 4-6,Informal/piece work,77,29.9381,0.2583,0.0451,0.6966,0.1274
+pension_uptake,North,Urban,2nd category,Secondary 1-3,Informal/piece work,20,12.0169,0.2153,0.1449,0.6398,0.1991
+pension_uptake,North,Urban,3rd category,Primary 4-6,Farming/fishing,32,9.3369,0.3147,0.4263,0.259,0.3294
+pension_uptake,North,Urban,3rd category,Primary 4-6,Informal/piece work,26,9.3365,0.1366,0.0243,0.8391,0.1646
+pension_uptake,North,Urban,3rd category,Secondary 4-6,Salaried,21,6.6026,0.5643,0.2225,0.2132,0.4919
+pension_uptake,North,Urban,3rd category,University or other higher education,Salaried,25,13.2558,0.5127,0.317,0.1704,0.6304
+pension_uptake,South,Rural,1st category,No formal education,Dependent/social transfer,58,21.4253,0.1078,0.0156,0.8766,0.1719
+pension_uptake,South,Rural,1st category,No formal education,Farming/fishing,26,10.8058,0.1081,0.0154,0.8765,0.1496
+pension_uptake,South,Rural,1st category,No formal education,Informal/piece work,29,16.4948,0.1736,0.0,0.8264,0.2187
+pension_uptake,South,Rural,1st category,Primary 1-3,Dependent/social transfer,21,11.4025,0.3447,0.0,0.6553,0.1906
+pension_uptake,South,Rural,1st category,Primary 4-6,Dependent/social transfer,37,21.2895,0.1174,0.0281,0.8546,0.1542
+pension_uptake,South,Rural,1st category,Primary 4-6,Informal/piece work,35,29.454,0.2136,0.042,0.7444,0.1415
+pension_uptake,South,Rural,2nd category,No formal education,Dependent/social transfer,24,11.1775,0.1401,0.0683,0.7917,0.1397
+pension_uptake,South,Rural,2nd category,No formal education,Farming/fishing,80,39.2721,0.0945,0.0485,0.8569,0.1735
+pension_uptake,South,Rural,2nd category,No formal education,Informal/piece work,70,35.7275,0.0295,0.0849,0.8856,0.1143
+pension_uptake,South,Rural,2nd category,No formal education,Salaried,25,17.0955,0.0277,0.2119,0.7604,0.1957
+pension_uptake,South,Rural,2nd category,Primary 1-3,Farming/fishing,50,26.3352,0.2597,0.1608,0.5794,0.199
+pension_uptake,South,Rural,2nd category,Primary 1-3,Informal/piece work,71,38.9284,0.0288,0.0956,0.8756,0.1443
+pension_uptake,South,Rural,2nd category,Primary 4-6,Dependent/social transfer,54,44.2153,0.0769,0.0493,0.8738,0.1097
+pension_uptake,South,Rural,2nd category,Primary 4-6,Farming/fishing,189,116.6065,0.1679,0.2129,0.6192,0.2244
+pension_uptake,South,Rural,2nd category,Primary 4-6,Informal/piece work,179,134.7289,0.1596,0.0791,0.7613,0.1506
+pension_uptake,South,Rural,2nd category,Primary 4-6,Salaried,61,42.7612,0.1556,0.2156,0.6288,0.2119
+pension_uptake,South,Rural,2nd category,Primary 4-6,Self-employed,21,20.6923,0.1077,0.3058,0.5865,0.2081
+pension_uptake,South,Rural,2nd category,Secondary 1-3,Dependent/social transfer,22,26.3909,0.1768,0.0185,0.8047,0.1191
+pension_uptake,South,Rural,2nd category,Secondary 1-3,Farming/fishing,32,29.0002,0.2746,0.161,0.5644,0.2535
+pension_uptake,South,Rural,2nd category,Secondary 1-3,Informal/piece work,28,27.64,0.1743,0.1891,0.6367,0.1525
+pension_uptake,South,Rural,2nd category,Secondary 4-6,Farming/fishing,30,30.2293,0.3094,0.2579,0.4327,0.2807
+pension_uptake,South,Rural,3rd category,No formal education,Farming/fishing,65,35.1114,0.2632,0.1218,0.615,0.2349
+pension_uptake,South,Rural,3rd category,No formal education,Informal/piece work,38,22.0378,0.1185,0.0,0.8815,0.1095
+pension_uptake,South,Rural,3rd category,Primary 1-3,Farming/fishing,64,33.2295,0.1556,0.2231,0.6212,0.2113
+pension_uptake,South,Rural,3rd category,Primary 1-3,Informal/piece work,41,23.8292,0.0907,0.0217,0.8876,0.1251
+pension_uptake,South,Rural,3rd category,Primary 4-6,Dependent/social transfer,24,21.7575,0.0555,0.1212,0.8233,0.111
+pension_uptake,South,Rural,3rd category,Primary 4-6,Farming/fishing,183,106.3024,0.1683,0.2053,0.6264,0.244
+pension_uptake,South,Rural,3rd category,Primary 4-6,Informal/piece work,160,97.8274,0.1363,0.0466,0.817,0.1384
+pension_uptake,South,Rural,3rd category,Primary 4-6,Salaried,46,32.1982,0.3228,0.1808,0.4964,0.2973
+pension_uptake,South,Rural,3rd category,Primary 4-6,Self-employed,33,25.2241,0.2506,0.1366,0.6128,0.2524
+pension_uptake,South,Rural,3rd category,Secondary 1-3,Farming/fishing,25,18.9466,0.1644,0.1516,0.6841,0.246
+pension_uptake,South,Rural,3rd category,Secondary 1-3,Informal/piece work,28,28.7594,0.0889,0.0155,0.8955,0.1259
+pension_uptake,South,Rural,3rd category,Secondary 4-6,Salaried,27,26.7212,0.3398,0.2297,0.4305,0.4062
+pension_uptake,South,Urban,1st category,No formal education,Dependent/social transfer,21,2.7065,0.3288,0.0,0.6712,0.139
+pension_uptake,South,Urban,2nd category,No formal education,Farming/fishing,20,5.6422,0.3401,0.0,0.6599,0.1798
+pension_uptake,South,Urban,2nd category,No formal education,Informal/piece work,23,5.3536,0.029,0.0894,0.8816,0.1303
+pension_uptake,South,Urban,2nd category,Primary 1-3,Informal/piece work,31,10.1384,0.1308,0.0554,0.8138,0.1315
+pension_uptake,South,Urban,2nd category,Primary 4-6,Dependent/social transfer,27,9.5978,0.0757,0.0266,0.8976,0.1127
+pension_uptake,South,Urban,2nd category,Primary 4-6,Farming/fishing,58,14.1245,0.2311,0.2085,0.5604,0.2258
+pension_uptake,South,Urban,2nd category,Primary 4-6,Informal/piece work,85,23.9945,0.0707,0.0347,0.8946,0.1433
+pension_uptake,South,Urban,2nd category,Primary 4-6,Salaried,30,6.9911,0.0703,0.1597,0.77,0.2068
+pension_uptake,South,Urban,2nd category,Primary 4-6,Self-employed,33,6.8475,0.2758,0.0633,0.661,0.2202
+pension_uptake,South,Urban,2nd category,Secondary 4-6,Salaried,20,5.6573,0.284,0.4426,0.2735,0.3079
+pension_uptake,South,Urban,3rd category,Primary 1-3,Informal/piece work,20,8.4084,0.0239,0.0266,0.9495,0.1125
+pension_uptake,South,Urban,3rd category,Primary 4-6,Farming/fishing,69,16.7346,0.2124,0.3394,0.4482,0.3211
+pension_uptake,South,Urban,3rd category,Primary 4-6,Informal/piece work,61,19.4929,0.2029,0.1628,0.6343,0.189
+pension_uptake,South,Urban,3rd category,Primary 4-6,Salaried,27,8.9868,0.3928,0.1394,0.4678,0.3804
+pension_uptake,South,Urban,3rd category,Primary 4-6,Self-employed,32,11.0975,0.2005,0.2784,0.5211,0.2575
+pension_uptake,South,Urban,3rd category,Secondary 4-6,Dependent/social transfer,24,12.1277,0.0594,0.0285,0.9121,0.1046
+pension_uptake,South,Urban,3rd category,Secondary 4-6,Salaried,31,8.6297,0.401,0.2974,0.3016,0.5365
+pension_uptake,South,Urban,3rd category,University or other higher education,Salaried,66,21.6609,0.7583,0.1729,0.0689,0.7355
+pension_uptake,West,Rural,1st category,No formal education,Dependent/social transfer,63,26.1438,0.4534,0.0384,0.5082,0.1469
+pension_uptake,West,Rural,1st category,No formal education,Farming/fishing,25,9.7475,0.2831,0.0979,0.6191,0.192
+pension_uptake,West,Rural,1st category,No formal education,Informal/piece work,33,20.2661,0.1143,0.0,0.8857,0.1045
+pension_uptake,West,Rural,1st category,Primary 1-3,Informal/piece work,31,21.3724,0.1707,0.0068,0.8225,0.1117
+pension_uptake,West,Rural,1st category,Primary 4-6,Informal/piece work,38,24.9667,0.1454,0.0302,0.8243,0.1199
+pension_uptake,West,Rural,2nd category,No formal education,Dependent/social transfer,38,17.7136,0.0541,0.0754,0.8705,0.1262
+pension_uptake,West,Rural,2nd category,No formal education,Farming/fishing,71,40.1821,0.2537,0.0634,0.6829,0.1591
+pension_uptake,West,Rural,2nd category,No formal education,Informal/piece work,90,55.0042,0.0853,0.0327,0.8821,0.1171
+pension_uptake,West,Rural,2nd category,Primary 1-3,Dependent/social transfer,25,14.9581,0.1184,0.0367,0.8449,0.1396
+pension_uptake,West,Rural,2nd category,Primary 1-3,Farming/fishing,30,17.7338,0.2232,0.1488,0.6279,0.1893
+pension_uptake,West,Rural,2nd category,Primary 1-3,Informal/piece work,67,41.7045,0.1586,0.049,0.7924,0.1271
+pension_uptake,West,Rural,2nd category,Primary 1-3,Salaried,20,15.0493,0.186,0.245,0.569,0.2327
+pension_uptake,West,Rural,2nd category,Primary 4-6,Dependent/social transfer,28,22.968,0.1642,0.0203,0.8155,0.0944
+pension_uptake,West,Rural,2nd category,Primary 4-6,Farming/fishing,113,70.1847,0.2791,0.2556,0.4653,0.2378
+pension_uptake,West,Rural,2nd category,Primary 4-6,Informal/piece work,168,105.4292,0.1404,0.1314,0.7283,0.1505
+pension_uptake,West,Rural,2nd category,Primary 4-6,Salaried,31,24.0351,0.3948,0.0956,0.5096,0.3268
+pension_uptake,West,Rural,2nd category,Primary 4-6,Self-employed,28,19.8815,0.0964,0.1661,0.7375,0.1773
+pension_uptake,West,Rural,2nd category,Secondary 1-3,Informal/piece work,24,19.8333,0.1468,0.1003,0.753,0.1652
+pension_uptake,West,Rural,3rd category,No formal education,Farming/fishing,57,26.0207,0.1813,0.0844,0.7343,0.1649
+pension_uptake,West,Rural,3rd category,No formal education,Informal/piece work,45,24.1109,0.1541,0.0139,0.832,0.128
+pension_uptake,West,Rural,3rd category,Primary 1-3,Farming/fishing,39,21.3824,0.1878,0.1972,0.615,0.1843
+pension_uptake,West,Rural,3rd category,Primary 1-3,Informal/piece work,36,19.4426,0.0582,0.0751,0.8667,0.1477
+pension_uptake,West,Rural,3rd category,Primary 1-3,Salaried,20,10.4117,0.3162,0.19,0.4938,0.2414
+pension_uptake,West,Rural,3rd category,Primary 4-6,Dependent/social transfer,31,26.5524,0.1164,0.0312,0.8524,0.0873
+pension_uptake,West,Rural,3rd category,Primary 4-6,Farming/fishing,130,72.9179,0.2847,0.2049,0.5104,0.2565
+pension_uptake,West,Rural,3rd category,Primary 4-6,Informal/piece work,87,49.7755,0.1538,0.0782,0.768,0.1597
+pension_uptake,West,Rural,3rd category,Primary 4-6,Salaried,49,32.473,0.405,0.215,0.38,0.2749
+pension_uptake,West,Rural,3rd category,Primary 4-6,Self-employed,29,20.8209,0.1203,0.0648,0.8149,0.1697
+pension_uptake,West,Rural,3rd category,Secondary 4-6,Dependent/social transfer,20,21.6649,0.0767,0.0177,0.9056,0.0639
+pension_uptake,West,Urban,1st category,Primary 4-6,Informal/piece work,20,5.7641,0.4299,0.0,0.5701,0.1276
+pension_uptake,West,Urban,2nd category,No formal education,Farming/fishing,21,5.1512,0.1975,0.0,0.8025,0.1726
+pension_uptake,West,Urban,2nd category,No formal education,Informal/piece work,32,10.2581,0.1685,0.0,0.8315,0.094
+pension_uptake,West,Urban,2nd category,Primary 1-3,Informal/piece work,35,14.0136,0.1482,0.1085,0.7432,0.147
+pension_uptake,West,Urban,2nd category,Primary 4-6,Dependent/social transfer,23,13.1289,0.0879,0.0352,0.8768,0.081
+pension_uptake,West,Urban,2nd category,Primary 4-6,Farming/fishing,50,13.455,0.2543,0.1431,0.6026,0.2486
+pension_uptake,West,Urban,2nd category,Primary 4-6,Informal/piece work,85,26.6162,0.1135,0.0249,0.8616,0.12
+pension_uptake,West,Urban,2nd category,Primary 4-6,Self-employed,28,11.0016,0.4497,0.1667,0.3837,0.2311
+pension_uptake,West,Urban,2nd category,Secondary 1-3,Informal/piece work,22,10.1715,0.0364,0.0,0.9636,0.0914
+pension_uptake,West,Urban,3rd category,Primary 1-3,Farming/fishing,21,4.1833,0.3957,0.203,0.4013,0.3101
+pension_uptake,West,Urban,3rd category,Primary 4-6,Dependent/social transfer,24,7.7059,0.0923,0.0922,0.8155,0.1434
+pension_uptake,West,Urban,3rd category,Primary 4-6,Farming/fishing,61,19.3089,0.26,0.0873,0.6528,0.2366
+pension_uptake,West,Urban,3rd category,Primary 4-6,Informal/piece work,59,20.5589,0.0815,0.0748,0.8437,0.1524
+pension_uptake,West,Urban,3rd category,Primary 4-6,Salaried,21,5.2796,0.2421,0.5114,0.2465,0.2821
+pension_uptake,West,Urban,3rd category,Primary 4-6,Self-employed,37,13.5139,0.2627,0.3872,0.35,0.358
+pension_uptake,West,Urban,3rd category,Secondary 4-6,Dependent/social transfer,40,23.4228,0.2114,0.0551,0.7335,0.164
+pension_uptake,West,Urban,3rd category,Secondary 4-6,Salaried,21,6.1022,0.5823,0.1008,0.3169,0.3987
+pension_uptake,West,Urban,3rd category,University or other higher education,Salaried,34,12.5223,0.6646,0.2918,0.0436,0.6743

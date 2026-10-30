@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pension \u2014 East rural farmers and fishers",
+    "gap": "Pension",
+    "adults_k": 635.0,
+    "priority": 1,
+    "insight": "Score as highly as existing holders on insurance understanding (76% vs 45%) \u2014 consistent with a distribution barrier rather than an awareness one. Understanding is partly a result of already owning a product, so this gap is read as a correlate, not proof.",
+    "recommendation": "Village Ejo Heza agents + mobile money sign-up, pitched as flexible low contributions. The largest single segment in this analysis \u2014 mostly Ubudehe 2, low-income rural households \u2014 so closing it directly advances NST2's resilience and poverty-reduction goals, not just inclusion statistics."
+  },
+  {
+    "title": "Pension \u2014 Kigali urban salaried",
+    "gap": "Pension",
+    "adults_k": 170.5,
+    "priority": 2,
+    "insight": "Nearly identical to existing holders on every measure \u2014 the clearest quick win in the data.",
+    "recommendation": "Employer payroll partnerships; RSSB voluntary top-up alongside salaried benefits. This segment is already affluent and formally employed \u2014 the case here is administrative ease and fast conversion, not poverty reduction."
+  },
+  {
+    "title": "Insurance \u2014 East rural farmers and fishers",
+    "gap": "Insurance",
+    "adults_k": 144.9,
+    "priority": 3,
+    "insight": "Score higher on insurance understanding than existing holders (95% vs 63%); a quarter live over an hour from a branch \u2014 consistent with physical access, not information, being the constraint.",
+    "recommendation": "Bundle crop/livestock micro-insurance with existing cooperative schemes. Low-income, Ubudehe 2 households \u2014 a direct line to NST2's rural resilience target: a single bad harvest no longer means catastrophic loss."
+  },
+  {
+    "title": "Pension \u2014 North rural farmers and fishers",
+    "gap": "Pension",
+    "adults_k": 107.1,
+    "priority": 3,
+    "insight": "Smaller gap between holders and lookalikes than other segments \u2014 genuinely on the fence rather than mismatched.",
+    "recommendation": "Same village-agent channel as the East rural segment; standard Ejo Heza tier. Ubudehe 3 households slightly better-off than the East segment, but still a poverty-resilience case, not just an inclusion number."
+  },
+  {
+    "title": "Insurance \u2014 Kigali urban salaried",
+    "gap": "Insurance",
+    "adults_k": 94.0,
+    "priority": 3,
+    "insight": "Score higher on insurance understanding than existing holders (92% vs lower) \u2014 not an education gap.",
+    "recommendation": "Bundle life/credit-life insurance with an existing bank or SACCO loan. Affluent, formally employed \u2014 a commercial-market opportunity, not a poverty-reduction target."
+  }
+]
