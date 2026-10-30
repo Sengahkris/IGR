@@ -1,0 +1,27 @@
+# Local configuration and editor state
+.DS_Store
+.claude/
+.vscode/
+**/.streamlit/secrets.toml
+
+# Python and notebook-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and trained outputs
+*.dta
+*.csv
+*.csv.gz
+*.joblib
+streamlit_app/artifacts/
+
+# Downloaded/generated documents and presentations
+*.pdf
+*.xlsx
+*.pptx
+out/
+
+# Installed dependencies
+**/node_modules/
