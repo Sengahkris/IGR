@@ -32,6 +32,27 @@ National uptake figures mask two fundamentally different dynamics:
 
 ---
 
+## 🏛️ Policy Alignment
+
+This project directly addresses **named national priorities** — it is not a generic financial inclusion exercise.
+
+### National Strategy for Transformation 2 (NST2)
+Rwanda's NST2 targets poverty reduction, economic resilience, and universal access to financial services. Closing the insurance and pension protection gap is a concrete lever for all three:
+
+| NST2 Pillar | How This Project Contributes |
+|---|---|
+| **Poverty Reduction & Resilience** | Uninsured households are one illness, drought, or accident away from poverty. Identifying the 1.15M+ lookalike adults closest to adoption helps close that vulnerability gap *first*. |
+| **Financial Inclusion** | The dashboard surfaces which segments (province, urban/rural, livelihood, Ubudehe) have the highest concentrations of reachable non-adopters, giving NBR, RSSB and insurers a data-backed targeting map. |
+| **Private Sector & Investment** | Actionable channel and product recommendations (e.g., bundling crop/livestock micro-insurance with agricultural cooperatives, linking Ejo Heza sign-up to mobile money) translate directly into commercial go-to-market decisions. |
+
+### National Bank of Rwanda (NBR) Ten-Year Insurance Roadmap
+The NBR's strategy explicitly names distribution reach and awareness gaps as the primary barriers — not affordability for most segments. This is precisely what the lookalike model quantifies: adults who are statistically ready to adopt but haven't been reached or offered the right product yet.
+
+### Vision 2050
+Rwanda's long-term goal of a knowledge-based, upper-middle-income economy requires a protected workforce and productive sector. The pension gap analysis (only 21.5% national uptake, despite Ejo Heza's 18.9% reach) directly informs how to close the retirement savings gap before it compounds.
+
+---
+
 ## 📊 Data Sources
 
 1. **FinScope Rwanda 2024 Survey Microdata (NISR)**:
