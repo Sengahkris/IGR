@@ -4,6 +4,7 @@
 > *Targeting the protection gap: finding the Rwandans who look like insured adults but hold no cover yet.*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Demo Video](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/h34IUDWIfuI)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -170,7 +171,7 @@ insurance_gap_radar/
 │   ├── artifacts/                 # Pre-aggregated data tables & serialized RF model
 │   └── assets/                    # Static assets (banner, geojson)
 ├── demo/                          # Solution video demonstration
-│   └── demo.webm                  # (Or link in README)
+│   └── demo_link.txt              # YouTube demonstration link (https://youtu.be/h34IUDWIfuI)
 ├── student_cards/                 # Academic eligibility documents (both team members)
 │   └── Christian&Vanessa_Recommendation_Letters.pdf
 └── Reports/                       # Official FinScope reports & NISR presentations
